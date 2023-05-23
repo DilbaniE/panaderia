@@ -1,0 +1,11 @@
+body{
+}
+.dilbani{
+    background: rgb(110, 49, 2);
+}
+.footerdil{
+    background: black;
+    text-align: center;
+    color: aliceblue;
+    display: flex;
+}
